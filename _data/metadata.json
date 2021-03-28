@@ -1,0 +1,20 @@
+{
+  "title": "Ishaq's Blog",
+  "url": "https://example.com/",
+  "description": "I am writing about my experiences as something.",
+  "feed": {
+    "subtitle": "I am writing about my experiences as something.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Ishaq's Blog",
+    "email": "Mikhan0388@email.com",
+    "url": "https://example.com/about-me/"
+  }
+}
